@@ -1,0 +1,135 @@
+body
+{
+    background-color: #893141;
+    
+}
+h2
+{
+    text-align: center;
+    color: white;
+    font-size: 120px;
+    margin-top: 15px;
+}
+            /* NOTRE FIELDSET */
+fieldset
+{
+    border-color: #161417;
+    background-image: url("bg1.png");
+    background-position: center;
+    background-size: 100%;
+    margin-top: -50px;
+    margin-left: 1150px;
+    width: 3100px;
+    height: 1965px;
+    background-repeat: no-repeat;  
+}
+            /* NOTRE MENU */
+a
+{
+    color: #b64b5b;
+    display: inline-block;
+    font-size: 75px;
+    font-family: bold;
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: center;   
+    text-decoration: none;
+}
+a:hover
+{
+    color:white;
+    background-color: #eb5b76;
+    border-radius: 25px;
+    
+}
+nav
+{
+    float: right;
+    margin-right: 220px;
+    margin-top: 130px;
+}
+            /* NOTRE SECTION */
+section
+{
+    margin-top: 520px;
+    margin-left:300px;
+}
+h1
+{
+    color: #eb5b76;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p
+{
+    color: white;
+    font-size: 60px;
+    margin-top: -50px;
+}
+.buy
+{
+    width: 450px;
+    height: 120px;
+    color: white;
+    margin-top: 38px;
+    border-radius: 60px;
+    background-color: #eb5b76;
+    font-size: 73px;
+}
+#achat:hover
+{
+    background-color: #161417;
+}
+#achat
+{
+    margin-top: 13px;
+}
+h4,a
+{
+    display: inline-flex;
+    margin-top: -10px;
+    margin-left: 40px;
+}
+            /* GESTION DES LIENS */
+div,a
+{
+    margin-top: 100px;
+}
+
+.insta
+{
+    width: 160px;
+    height: 160px;
+}
+.insta:hover
+{
+    background-color: #161417;
+}
+#insta
+{
+    margin-left: 13px;
+}
+.twit
+{
+    width: 180px;
+    height: 180px;      
+}
+.twit:hover
+{
+    background-color: #161417;
+}
+#twit
+{
+    margin-left: -85px;
+    margin-top: 2px;
+}
+.face
+{
+    width: 160px;
+    height: 160px;
+    margin-left: 6px;
+}
+.face:hover
+{
+    background-color: #161417;
+}
